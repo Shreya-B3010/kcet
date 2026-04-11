@@ -2,7 +2,7 @@
 
 This project is a web-based dashboard designed to help students who have appeared for the Karnataka Common Entrance Test (KCET). It provides a college prediction tool based on their rank and offers detailed information about the KCET counselling process. The application also features an interactive chatbot to answer student queries.
 
-##live link : https://kcetcollegepredictor.netlify.app/
+##live link : https://kcetcollegepredictor.netlify.app/n
 ##live link  :https://drive.google.com/drive/folders/1qx17Qd6X3d9I_8TSUl4ftNe0vWgaoN_y?usp=sharing
 ## Features
 
